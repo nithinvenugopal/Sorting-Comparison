@@ -8,7 +8,7 @@ From the graph, we can see that-
 3. In base case, Insertion sort performs well with complexity of O(n) and Quick sort and merge sort has complexity of O(nlogn)
 
 
-
+![alt tag](Output.png)
 
  
 The timing evaluated here is in Micro seconds
